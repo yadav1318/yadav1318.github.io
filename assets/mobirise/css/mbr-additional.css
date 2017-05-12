@@ -437,8 +437,8 @@ h6,
 #contacts5-k .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
-#form1-l .form-control-label {
-  color: #232323;
+#contacts5-k H4 {
+  text-align: left;
 }
 #menu-o .hide-buttons .nav-btn {
   display: none !important;
