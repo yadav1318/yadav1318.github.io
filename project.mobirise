@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "lsg.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -26,10 +26,10 @@
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "index.html": {
+    "lsg.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "LS Group",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
